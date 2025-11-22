@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yehya Ali</h1>
 <h3 align="center">A passionate FullStack from Lebanon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yehya-ali&label=Profile%20views&color=0e75b6&style=flat" alt="yehya-ali" /> </p>
-
 - 🌱 I’m currently learning **AIE**
 
 - 💬 Ask me about **java, python, js, sql, php**
